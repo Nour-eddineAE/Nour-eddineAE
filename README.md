@@ -1,11 +1,10 @@
 ## <div align="center">Hi there, i am Nour-eddine, a computer science student 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Nodejs and Vuejs  
+<div align="center">🌱 I’m currently learning Nodejs and Vuejs</div> 
+<div align="center"> ⚡ Fun fact: I use tabs over spaces  </div>
+<br/>
   
-
-- ⚡ Fun fact: I use tabs over spaces  
-
 <div align="center">
 
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif" /></a>&#160; My GitHub Stats:
