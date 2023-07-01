@@ -11,7 +11,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nour-eddineAE&bg_color=0d1117&color=d5d9e1&line=5da3f8&point=5da3f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=5da3f8&height=3&section=header&%20render"/>
 <a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats.vercel.app/api?username=Nour-eddineAE&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0d1017&bg_color=0e1118" width="510"/></a>
-<a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-eddineAE&layout=compact&langs_count=8&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0e1118&bg_color=0e1118" width="310"/>
+<a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-eddineAE&layout=compact&langs_count=10&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0e1118&bg_color=0e1118" width="310"/>
 </a><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=5da3f8&height=3&section=header&%20render"/> 
 <a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-eddineAE&theme=dark&ring=5da3f8&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540"/></a>
 
