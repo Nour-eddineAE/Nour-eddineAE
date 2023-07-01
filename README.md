@@ -1,15 +1,14 @@
 ## <div align="center">Hi there, i am Nour-eddine, a computer science student 👨‍💻 </div>  
   
 
-<div align="center">🌱 I’m currently learning Nodejs and Vuejs</div> 
-<div align="center"> ⚡ Fun fact: I use tabs over spaces  </div>
+<div align="center">🌱 I’m currently learning AI and ML in python</div> 
 <br/>
   
 <div align="center">
 
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif" /></a>&#160; My GitHub Stats:
 
-<a href="https://github.com/Nour-eddineAE"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nour-eddineAE&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=5da3f8&title_color=5da3f8&line=5da3f8&point=5da3f8&theme=high-contrast" width="800" ></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nour-eddineAE&bg_color=0d1117&color=d5d9e1&line=5da3f8&point=5da3f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=5da3f8&height=3&section=header&%20render"/>
 <a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats.vercel.app/api?username=Nour-eddineAE&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0d1017&bg_color=0e1118" width="510"/></a>
 <a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-eddineAE&layout=compact&langs_count=8&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0e1118&bg_color=0e1118" width="310"/>
@@ -36,7 +35,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -55,22 +54,42 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>   
 </div>
+</td>
 
-</td><td valign="top" width="33%">
-
-
-
+<td valign="top" width="33%">
+  
 ## <div align="center">Devops</div>  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
+</td>
+</tr>
 
+<tr>
+<td valign="top" width="33%">
+  
+## <div align="center">AI/ML</div>   
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+</div>
+</td>
 
-</td></tr></table>  
+<td>
+  
+## <div align="center">Testing</div>
+<div align="center">  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+</div>
+</td>
+
+</tr>
+
+</table>  
  <br />
  
  <br/>  
