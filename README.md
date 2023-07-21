@@ -83,7 +83,6 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 </div>
 </td>
-
 <td>
   
 ## <div align="center">Testing</div>
@@ -91,17 +90,16 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 </td>
-
 </tr>
-
 </table>  
- <br />
+<br /> 
+<br/>  
  
- <br/>  
-
-
 ## Connect with me  
 <div align="center">
+<a href="https://www.hackerrank.com/Nour_eddineAE?hr_r=1" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/Nour-eddineAE" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -112,7 +110,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
