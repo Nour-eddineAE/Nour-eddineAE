@@ -100,6 +100,9 @@
 <a href="https://www.hackerrank.com/Nour_eddineAE?hr_r=1" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/Nour-eddineAE" target="_blank">
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/Nour-eddineAE" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
