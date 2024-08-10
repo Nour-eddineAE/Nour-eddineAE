@@ -1,7 +1,7 @@
 ## <div align="center">Hi there, i am Nour-eddine, a computer science student 👨‍💻 </div>  
   
 
-<div align="center">🌱 I’m currently learning AI and ML in python</div> 
+<div align="center">🌱 I’m currently learning about LLMs</div> 
 <br/>
   
 <div align="center">
