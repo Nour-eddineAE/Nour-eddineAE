@@ -1,122 +1,72 @@
-## <div align="center">Hi there, i am Nour-eddine, a computer science student 👨‍💻 </div>  
-  
+# Nour-eddine Ait Elhadj
 
-<div align="center">🌱 I’m currently learning about LLMs</div> 
-<br/>
-  
-<div align="center">
+**Software & Data Platform Engineer**
 
-## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif" /></a>&#160; My GitHub Stats:
+I work on **backend-heavy data platforms** built on **event-driven, cloud-native architectures**.  
+My focus is on **distributed data processing**, **analytics pipelines**, and **operating systems in production**.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nour-eddineAE&bg_color=0d1117&color=d5d9e1&line=5da3f8&point=5da3f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=5da3f8&height=3&section=header&%20render"/>
+---
 
+## What I Do
 
+- Build and maintain **distributed analytics systems** (batch & streaming)
+- Design **event-driven and asynchronous data pipelines**
+- Develop **backend services** using Java and Spring
+- Implement **Spark-based processing** (Scala / Java)
+- Deploy and run workloads on **Kubernetes (AKS)**
+- Contribute across the lifecycle: design, implementation, and production support
 
-<a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats-duue.vercel.app/api?username=Nour-eddineAE&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0d1017&bg_color=0e1118" width="510"/></a>
+---
 
+## Technical Focus
 
-<a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-stats-duue.vercel.app/api/top-langs/?username=Nour-eddineAE&layout=compact&langs_count=10&theme=codeSTACKr&title_color=5da3f8&icon_color=f1d537&border_color=0e1118&bg_color=0e1118" width="310"/>
-</a><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=5da3f8&height=3&section=header&%20render"/> 
-<a href="https://github.com/Nour-eddineAE/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-eddineAE&theme=dark&ring=5da3f8&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540"/></a>
+### Data & Analytics
+- Apache Spark (Scala, Java)
+- Batch and streaming pipelines
+- Event-driven processing
+- Data quality and correctness
 
-</div>
+### Backend Systems
+- Java, Spring Boot
+- Microservices
+- Asynchronous communication
+- PostgreSQL
 
-<div align="center">
+### Cloud & Operations
+- Azure (AKS, Event Hubs, managed services)
+- Kubernetes, Helm
+- CI/CD pipelines
+- Linux, Docker
+- Production debugging and monitoring
 
-## &#160; What am I currently learning?
+### Languages
+- Java, Scala
+- Python
+- SQL
 
-<br />
+---
 
-<table><tr><td valign="top" width="33%">
+## Interests
 
+- Distributed data systems
+- Analytics engines and complex data flows
+- Platform reliability and operational concerns
+- Practical use of **LLMs** in data and backend systems
 
+---
 
-## <div align="center">Frontend</div>  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-</div>
+## Activity
 
-</td><td valign="top" width="33%">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nour-eddineAE&bg_color=ffffff&color=000000&line=5da3f8&point=5da3f8&area=false&hide_border=true)
 
+---
 
+## Profiles
 
-## <div align="center">Backend</div>  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>   
-</div>
-</td>
+- GitHub: https://github.com/Nour-eddineAE  
+- LinkedIn: https://www.linkedin.com/in/nour-eddine-ait-elhadj  
+- Stack Overflow: https://stackoverflow.com/users/19511549  
 
-<td valign="top" width="33%">
-  
-## <div align="center">Devops</div>  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-</td>
-</tr>
+---
 
-<tr>
-<td valign="top" width="33%">
-  
-## <div align="center">AI/ML</div>   
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-</div>
-</td>
-<td>
-  
-## <div align="center">Testing</div>
-<div align="center">  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
-</td>
-</tr>
-</table>  
-<br /> 
-<br/>  
- 
-## Connect with me  
-<div align="center">
-<a href="https://www.hackerrank.com/Nour_eddineAE?hr_r=1" target="_blank">
-<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/Nour-eddineAE" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Nour-eddineAE" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/19511549/mouse" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/nour-eddine-ait-elhadj" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/>  
-
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nour-eddineAE&&style=flat-square" align="center" />
-</div>    
+![Profile Views](https://komarev.com/ghpvc/?username=Nour-eddineAE&style=flat-square)
