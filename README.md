@@ -1,72 +1,37 @@
 # Nour-eddine Ait Elhadj
 
-**Software & Data Platform Engineer**
+**Data / Software Engineer**, based in Casablanca, Morocco
 
-I work on **backend-heavy data platforms** built on **event-driven, cloud-native architectures**.  
-My focus is on **distributed data processing**, **analytics pipelines**, and **operating systems in production**.
-
----
-
-## What I Do
-
-- Build and maintain **distributed analytics systems** (batch & streaming)
-- Design **event-driven and asynchronous data pipelines**
-- Develop **backend services** using Java and Spring
-- Implement **Spark-based processing** (Scala / Java)
-- Deploy and run workloads on **Kubernetes (AKS)**
-- Contribute across the lifecycle: design, implementation, and production support
+Building distributed data platforms on Azure. Currently at **Société Générale CIB**, working on the Metrics Platform: a Spark-based system processing market-risk sensitivities for trading desks across Paris, New York, London, and Hong Kong.
 
 ---
 
-## Technical Focus
+## What I Work On
 
-### Data & Analytics
-- Apache Spark (Scala, Java)
-- Batch and streaming pipelines
-- Event-driven processing
-- Data quality and correctness
+- **Spark pipelines** (Scala / Java) on Kubernetes, processing hundreds of millions of records intraday
+- **Event-driven architectures** over Azure Event Hubs and Kafka (claim-check pattern)
+- **Spring Boot** microservices feeding  **ActivePivot** cubes 
+- Migrating a 10+ year legacy monolith to a distributed cloud-native stack
 
-### Backend Systems
-- Java, Spring Boot
-- Microservices
-- Asynchronous communication
-- PostgreSQL
+---
 
-### Cloud & Operations
-- Azure (AKS, Event Hubs, managed services)
-- Kubernetes, Helm
-- CI/CD pipelines
-- Linux, Docker
-- Production debugging and monitoring
+## Stack
 
-### Languages
-- Java, Scala
-- Python
-- SQL
+**Languages:** Java, Scala, Python, SQL  
+**Data:** Apache Spark, Kafka, Event Hubs, ActivePivot, ADLS Gen2  
+**Backend:** Spring Boot, REST, PostgreSQL  
+**Cloud & Ops:** Azure (AKS, Synapse), Kubernetes, Helm, Jenkins, Docker
 
 ---
 
 ## Interests
 
-- Distributed data systems
-- Analytics engines and complex data flows
-- Platform reliability and operational concerns
-- Practical use of **LLMs** in data and backend systems
+Distributed data systems, analytics engines, platform reliability, and practical applications of LLMs in data and backend systems.
 
 ---
 
-## Activity
+## Links
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nour-eddineAE&bg_color=ffffff&color=000000&line=5da3f8&point=5da3f8&area=false&hide_border=true)
-
----
-
-## Profiles
-
-- GitHub: https://github.com/Nour-eddineAE  
-- LinkedIn: https://www.linkedin.com/in/nour-eddine-ait-elhadj  
-- Stack Overflow: https://stackoverflow.com/users/19511549  
-
----
+[GitHub](https://github.com/Nour-eddineAE) · [LinkedIn](https://www.linkedin.com/in/nour-eddine-ait-elhadj) · [Stack Overflow](https://stackoverflow.com/users/19511549)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nour-eddineAE&style=flat-square)
